@@ -1,4 +1,4 @@
-# Youtube-Clone
+# Youtube Clone
 
 
 ## Introduction
@@ -12,9 +12,14 @@ This project is a YouTube clone implemented using HTML, CSS, and JavaScript. The
 - Responsive design for various devices
 
 Website Link: https://atinder11.github.io/Youtube-Clone/
-## Demo Video
+## Demo Video:
 
-## ScreenShot
+
+https://github.com/atinder11/Youtube-Clone/assets/111070211/e8ecdcc1-a761-4bb7-a0ea-92c600688548
+
+
+
+## ScreenShot:
 1.Landing Page:
 <br>
 ![image](https://github.com/atinder11/Youtube-Clone/assets/111070211/de33f88c-424d-4fb1-8c82-5e330ad9cf64)
